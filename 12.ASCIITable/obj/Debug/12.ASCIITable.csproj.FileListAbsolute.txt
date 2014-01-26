@@ -1,0 +1,5 @@
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\12.ASCIITable\bin\Debug\12.ASCIITable.exe.config
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\12.ASCIITable\bin\Debug\12.ASCIITable.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\12.ASCIITable\bin\Debug\12.ASCIITable.pdb
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\12.ASCIITable\obj\Debug\12.ASCIITable.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\12.ASCIITable\obj\Debug\12.ASCIITable.pdb

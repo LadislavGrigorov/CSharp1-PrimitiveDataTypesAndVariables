@@ -1,0 +1,10 @@
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\09.CopyRightTriangle\bin\Debug\09.CopyRightTriangle.exe.config
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\09.CopyRightTriangle\bin\Debug\09.CopyRightTriangle.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\09.CopyRightTriangle\bin\Debug\09.CopyRightTriangle.pdb
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\09.CopyRightTriangle\obj\Debug\09.CopyRightTriangle.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\09.CopyRightTriangle\obj\Debug\09.CopyRightTriangle.pdb
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars-Homework\PrimitiveDataTypesAnVars\09.CopyRightTriangle\bin\Debug\09.CopyRightTriangle.exe.config
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars-Homework\PrimitiveDataTypesAnVars\09.CopyRightTriangle\obj\Debug\09.CopyRightTriangle.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars-Homework\PrimitiveDataTypesAnVars\09.CopyRightTriangle\obj\Debug\09.CopyRightTriangle.pdb
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars-Homework\PrimitiveDataTypesAnVars\09.CopyRightTriangle\bin\Debug\09.CopyRightTriangle.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars-Homework\PrimitiveDataTypesAnVars\09.CopyRightTriangle\bin\Debug\09.CopyRightTriangle.pdb

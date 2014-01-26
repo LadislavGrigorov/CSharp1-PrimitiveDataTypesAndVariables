@@ -1,0 +1,6 @@
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\11.ExchangeValuesOf2Variables\bin\Debug\11.ExchangeValuesOf2Variables.exe.config
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\11.ExchangeValuesOf2Variables\bin\Debug\11.ExchangeValuesOf2Variables.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\11.ExchangeValuesOf2Variables\bin\Debug\11.ExchangeValuesOf2Variables.pdb
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\11.ExchangeValuesOf2Variables\obj\Debug\11.ExchangeValuesOf2Variables.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\11.ExchangeValuesOf2Variables\obj\Debug\11.ExchangeValuesOf2Variables.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\11.ExchangeValuesOf2Variables\obj\Debug\11.ExchangeValuesOf2Variables.pdb

@@ -1,0 +1,11 @@
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\03.Compare2FloatNumbers\bin\Debug\03.Compare2FloatNumbers.exe.config
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\03.Compare2FloatNumbers\bin\Debug\03.Compare2FloatNumbers.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\03.Compare2FloatNumbers\bin\Debug\03.Compare2FloatNumbers.pdb
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\03.Compare2FloatNumbers\obj\Debug\03.Compare2FloatNumbers.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\03.Compare2FloatNumbers\obj\Debug\03.Compare2FloatNumbers.pdb
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\03.Compare2FloatNumbers\bin\Debug\03.Compare2FloatNumbers.exe.config
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\03.Compare2FloatNumbers\obj\Debug\03.Compare2FloatNumbers.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\03.Compare2FloatNumbers\obj\Debug\03.Compare2FloatNumbers.pdb
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars-Homework\PrimitiveDataTypesAnVars\03.Compare2FloatNumbers\bin\Debug\03.Compare2FloatNumbers.exe.config
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars-Homework\PrimitiveDataTypesAnVars\03.Compare2FloatNumbers\obj\Debug\03.Compare2FloatNumbers.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars-Homework\PrimitiveDataTypesAnVars\03.Compare2FloatNumbers\obj\Debug\03.Compare2FloatNumbers.pdb

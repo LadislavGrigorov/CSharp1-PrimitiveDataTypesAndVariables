@@ -1,0 +1,11 @@
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\05.CharHexVariable\bin\Debug\05.CharHexVariable.exe.config
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\05.CharHexVariable\bin\Debug\05.CharHexVariable.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\05.CharHexVariable\bin\Debug\05.CharHexVariable.pdb
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\05.CharHexVariable\obj\Debug\05.CharHexVariable.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\05.CharHexVariable\obj\Debug\05.CharHexVariable.pdb
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\05.CharHexVariable\bin\Debug\05.CharHexVariable.exe.config
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\05.CharHexVariable\obj\Debug\05.CharHexVariable.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\05.CharHexVariable\obj\Debug\05.CharHexVariable.pdb
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars-Homework\PrimitiveDataTypesAnVars\05.CharHexVariable\bin\Debug\05.CharHexVariable.exe.config
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars-Homework\PrimitiveDataTypesAnVars\05.CharHexVariable\obj\Debug\05.CharHexVariable.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars-Homework\PrimitiveDataTypesAnVars\05.CharHexVariable\obj\Debug\05.CharHexVariable.pdb

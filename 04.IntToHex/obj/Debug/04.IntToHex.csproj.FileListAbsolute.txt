@@ -1,0 +1,13 @@
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\04.IntToHex\bin\Debug\04.IntToHex.exe.config
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\04.IntToHex\bin\Debug\04.IntToHex.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\04.IntToHex\bin\Debug\04.IntToHex.pdb
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\04.IntToHex\obj\Debug\04.IntToHex.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\04.IntToHex\obj\Debug\04.IntToHex.pdb
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\04.IntToHex\bin\Debug\04.IntToHex.exe.config
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\04.IntToHex\obj\Debug\04.IntToHex.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\04.IntToHex\obj\Debug\04.IntToHex.pdb
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\04.IntToHex\bin\Debug\04.IntToHex.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\04.IntToHex\bin\Debug\04.IntToHex.pdb
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars-Homework\PrimitiveDataTypesAnVars\04.IntToHex\bin\Debug\04.IntToHex.exe.config
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars-Homework\PrimitiveDataTypesAnVars\04.IntToHex\obj\Debug\04.IntToHex.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars-Homework\PrimitiveDataTypesAnVars\04.IntToHex\obj\Debug\04.IntToHex.pdb

@@ -1,0 +1,8 @@
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\14.BankAccount\bin\Debug\14.BankAccount.exe.config
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\14.BankAccount\bin\Debug\14.BankAccount.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\14.BankAccount\bin\Debug\14.BankAccount.pdb
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\14.BankAccount\obj\Debug\14.BankAccount.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\14.BankAccount\obj\Debug\14.BankAccount.pdb
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars-Homework\PrimitiveDataTypesAnVars\14.BankAccount\bin\Debug\14.BankAccount.exe.config
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars-Homework\PrimitiveDataTypesAnVars\14.BankAccount\obj\Debug\14.BankAccount.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars-Homework\PrimitiveDataTypesAnVars\14.BankAccount\obj\Debug\14.BankAccount.pdb

@@ -1,0 +1,1 @@
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\10.FirmRecords\bin\Debug\10.FirmRecords.exe.config

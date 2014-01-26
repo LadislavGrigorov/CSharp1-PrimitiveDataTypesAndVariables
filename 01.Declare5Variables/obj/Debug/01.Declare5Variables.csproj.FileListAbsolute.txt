@@ -1,0 +1,15 @@
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\01.Declare5Variables\bin\Debug\01.Declare5Variables.exe.config
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\01.Declare5Variables\bin\Debug\01.Declare5Variables.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\01.Declare5Variables\bin\Debug\01.Declare5Variables.pdb
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\01.Declare5Variables\obj\Debug\01.Declare5Variables.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\01.Declare5Variables\obj\Debug\01.Declare5Variables.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\01.Declare5Variables\obj\Debug\01.Declare5Variables.pdb
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\01.Declare5Variables\bin\Debug\01.Declare5Variables.exe.config
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\01.Declare5Variables\obj\Debug\01.Declare5Variables.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\01.Declare5Variables\obj\Debug\01.Declare5Variables.pdb
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\01.Declare5Variables\bin\Debug\01.Declare5Variables.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\01.Declare5Variables\bin\Debug\01.Declare5Variables.pdb
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\01.Declare5Variables\obj\Debug\01.Declare5Variables.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars-Homework\PrimitiveDataTypesAnVars\01.Declare5Variables\bin\Debug\01.Declare5Variables.exe.config
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars-Homework\PrimitiveDataTypesAnVars\01.Declare5Variables\obj\Debug\01.Declare5Variables.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars-Homework\PrimitiveDataTypesAnVars\01.Declare5Variables\obj\Debug\01.Declare5Variables.pdb

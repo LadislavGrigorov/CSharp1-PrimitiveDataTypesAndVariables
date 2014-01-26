@@ -1,0 +1,5 @@
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\03.CompareFloatingNumbers\bin\Debug\03.CompareFloatingNumbers.exe.config
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\03.CompareFloatingNumbers\bin\Debug\03.CompareFloatingNumbers.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\03.CompareFloatingNumbers\bin\Debug\03.CompareFloatingNumbers.pdb
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\03.CompareFloatingNumbers\obj\Debug\03.CompareFloatingNumbers.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\03.CompareFloatingNumbers\obj\Debug\03.CompareFloatingNumbers.pdb

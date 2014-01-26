@@ -1,0 +1,8 @@
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\08.UsingQuotations\bin\Debug\08.UsingQuotations.exe.config
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\08.UsingQuotations\bin\Debug\08.UsingQuotations.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\08.UsingQuotations\bin\Debug\08.UsingQuotations.pdb
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\08.UsingQuotations\obj\Debug\08.UsingQuotations.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\08.UsingQuotations\obj\Debug\08.UsingQuotations.pdb
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\08.UsingQuotations\bin\Debug\08.UsingQuotations.exe.config
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\08.UsingQuotations\obj\Debug\08.UsingQuotations.exe
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\08.UsingQuotations\obj\Debug\08.UsingQuotations.pdb

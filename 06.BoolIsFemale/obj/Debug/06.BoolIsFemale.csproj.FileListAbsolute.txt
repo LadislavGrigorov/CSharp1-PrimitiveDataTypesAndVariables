@@ -1,0 +1,2 @@
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\Solution1\06.BoolIsFemale\bin\Debug\06.BoolIsFemale.exe.config
+D:\Telerik\C# Part I\02.Примитивни типове данни и променливи\PrimitiveDataTypesAnVars\PrimitiveDataTypesAnVars\06.BoolIsFemale\bin\Debug\06.BoolIsFemale.exe.config
